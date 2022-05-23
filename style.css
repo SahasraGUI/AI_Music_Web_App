@@ -1,0 +1,30 @@
+body{
+    background-image: url('background_image.jpg');
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 30px !important;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px !important;
+    color: blue !important;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 10px aqua;
+}
+
+#note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+canvas{
+    background-color: white;
+    box-shadow: 10px 10px 10px aqua;
+    border-radius: 20px;
+}
